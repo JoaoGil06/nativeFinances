@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nativefinances",
+    "slug": "nativefinances",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
